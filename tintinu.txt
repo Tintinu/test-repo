@@ -3,5 +3,13 @@ I am a Devops Engineer for AWS.
 Keep pushing the sky is your limit.
 Lets keep going guys higjer and higher.
 Tank you JUSES.
+<<<<<<< HEAD
 Yeshuah Adonis.
 YESSSSSSSSS
+=======
+we shall all go up 
+into Gods house
+with shouts of
+Joy
+joy is happy
+>>>>>>> 4744c92 (modified tintinu2)
